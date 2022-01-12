@@ -1,5 +1,5 @@
-## Camila Lordelo
-### Olá! :) Seja bem vindo ao meu perfil!
+## Olá, me chamo Camila Lordelo! :) 
+### Seja bem vindo ao meu perfil!
 <br>
   <div>
     <a href="https://github.com/seu-usuário-aqui">
