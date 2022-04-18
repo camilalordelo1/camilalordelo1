@@ -14,7 +14,5 @@
     <a href = "mailto:camilalordelo15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/camila-lordelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
-  <div>
-   ![Snake animation](https://github.com/camilalordelo1/camilalordelo1/blob/output/github-contribution-grid-snake.svg)
-  </div>
+
 
